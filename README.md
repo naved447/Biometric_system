@@ -1,2 +1,2 @@
 # Biometric_system
-A multi level bio metric system
+A multi level biometric system
